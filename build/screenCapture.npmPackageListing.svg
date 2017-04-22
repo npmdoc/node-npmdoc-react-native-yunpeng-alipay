@@ -1,0 +1,34 @@
+<svg height="494" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="494" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 00:58:56 +0000  9231878 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 00:58:56 +0000     2141 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 00:58:56 +0000      530 bytes  android/build.gradle</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 00:58:56 +0000   325288 bytes  android/libs/alipaySdk-20160223.jar</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 00:58:56 +0000      122 bytes  android/src/main/AndroidManifest.xml</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 00:58:56 +0000     4038 bytes  android/src/main/java/com/yunpeng/alipay/AlipayM\</tspan>
+<tspan x="10" y="122">odule.java</tspan>
+<tspan x="10" y="138">  6.  2017-04-22 00:58:56 +0000      977 bytes  android/src/main/java/com/yunpeng/alipay/AlipayP\</tspan>
+<tspan x="10" y="154">ackage.java</tspan>
+<tspan x="10" y="170">  7.  2017-04-22 00:58:56 +0000     1533 bytes  android/src/main/java/com/yunpeng/alipay/PayResu\</tspan>
+<tspan x="10" y="186">lt.java</tspan>
+<tspan x="10" y="202">  8.  2017-04-22 00:58:56 +0000      754 bytes  android/src/main/java/com/yunpeng/alipay/StreamT\</tspan>
+<tspan x="10" y="218">ool.java</tspan>
+<tspan x="10" y="234">  9.  2017-04-22 00:58:56 +0000      433 bytes  index.js</tspan>
+<tspan x="10" y="250"> 10.  2017-04-22 00:58:56 +0000     9469 bytes  ios/AlipayModule.xcodeproj/project.pbxproj</tspan>
+<tspan x="10" y="266"> 11.  2017-04-22 00:58:56 +0000      303 bytes  ios/AlipayModule/AlipayModule.h</tspan>
+<tspan x="10" y="282"> 12.  2017-04-22 00:58:56 +0000     2928 bytes  ios/AlipayModule/AlipayModule.m</tspan>
+<tspan x="10" y="298"> 13.  2017-04-22 00:58:56 +0000     1011 bytes  ios/AlipaySDK.bundle/bar@2x.png</tspan>
+<tspan x="10" y="314"> 14.  2017-04-22 00:58:56 +0000      605 bytes  ios/AlipaySDK.bundle/refresh@2x.png</tspan>
+<tspan x="10" y="330"> 15.  2017-04-22 00:58:56 +0000     1824 bytes  ios/AlipaySDK.bundle/refresh_click@2x.png</tspan>
+<tspan x="10" y="346"> 16.  2017-04-22 00:58:56 +0000      222 bytes  ios/AlipaySDK.bundle/shutdown@2x.png</tspan>
+<tspan x="10" y="362"> 17.  2017-04-22 00:58:56 +0000     1319 bytes  ios/AlipaySDK.bundle/shutdown_click@2x.png</tspan>
+<tspan x="10" y="378"> 18.  2017-04-22 00:58:56 +0000  8871132 bytes  ios/AlipaySDK.framework/AlipaySDK</tspan>
+<tspan x="10" y="394"> 19.  2017-04-22 00:58:56 +0000      839 bytes  ios/AlipaySDK.framework/Headers/APayAuthInfo.h</tspan>
+<tspan x="10" y="410"> 20.  2017-04-22 00:58:56 +0000     4934 bytes  ios/AlipaySDK.framework/Headers/AlipaySDK.h</tspan>
+<tspan x="10" y="426"> 21.  2017-04-22 00:58:56 +0000     1093 bytes  ios/AlipaySDK.framework/Info.plist</tspan>
+<tspan x="10" y="442"> 22.  2017-04-22 00:58:56 +0000       42 bytes  ios/AlipaySDK.framework/en.lproj/InfoPlist.strin\</tspan>
+<tspan x="10" y="458">gs</tspan>
+<tspan x="10" y="474"> 23.  2017-04-22 00:58:56 +0000      341 bytes  package.json</tspan>
+</text>
+</svg>
